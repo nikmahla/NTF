@@ -4,9 +4,9 @@ A modern, fully responsive NFT landing page built with **React**, **Next.js**, *
 
 This project demonstrates clean UI design, responsive layout techniques, and smooth user interactions—ideal for showcasing digital collectibles or NFT portfolios.
 
-## 🔗 Live Demo
+## 🔗 Live Demo 
 
-👉 [View the live site](https://ntf-v01.vercel.app/)
+👉 [https://ntf-v01.vercel.app/](https://ntf-v01.vercel.app/)
 
 ---
 
@@ -17,7 +17,7 @@ This project demonstrates clean UI design, responsive layout techniques, and smo
 - **Bootstrap**
 - **HTML5 / CSS3**
 - **Google Fonts (via `next/font`)**
-- **Deployed with Vercel**
+- **Deployed on Vercel**
 
 ---
 
